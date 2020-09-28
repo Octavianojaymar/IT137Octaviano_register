@@ -1,0 +1,56 @@
+body
+{
+    background-image:url(https://s3.envato.com/files/243754334/primag.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:100%;
+    height:97vh;
+    overflow:auto;
+}
+.box
+{
+    text-align: center;
+    max-width: 350px;
+    margin: auto;
+    margin-top: 20px;
+    background-image:url(https://image.freepik.com/free-vector/dark-blue-blurred-background_1034-589.jpg);
+    opacity: 0.8;
+    padding: 5px;
+    border-style: 1px solid grey;
+    box-shadow: 2px 5px 5px 0px #eee;
+}
+#ec, #p, #rm, #sp
+{
+    color: white;
+}
+.signup, .forgot
+{
+    text-align: center;
+    color: white;
+}
+.forgot
+{
+    margin-bottom: 40px;
+    
+}
+.heading{
+    text-decoration:bold;
+    text-align : center;
+    font-size:30px;
+    color:#F96;
+    padding-top:10px;
+}
+#loginbutton, #Register
+{
+    width: 50%;
+    border-radius: 8px;
+    background: #094e8f !important;
+    color: white !important;
+    padding: 8px;
+    margin-bottom: 20px;
+}
+input[type=text], input[type=password]
+{
+    width: 300px;
+    margin: auto;
+}
